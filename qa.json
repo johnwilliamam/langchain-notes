@@ -1,0 +1,15 @@
+[
+    {
+      "question": "O que é LangChain?",
+      "answer": "LangChain é uma biblioteca que facilita a criação de pipelines de IA baseados em LLMs (Large Language Models)."
+    },
+    {
+      "question": "Qual é a função do LlamaCpp?",
+      "answer": "O LlamaCpp é uma biblioteca que permite usar modelos LLaMA de forma eficiente em dispositivos locais."
+    },
+    {
+      "question": "Como carregar um PDF no LangChain?",
+      "answer": "Você pode usar o PyPDFLoader para carregar e processar PDFs no LangChain."
+    }
+  ]
+  
